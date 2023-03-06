@@ -1,0 +1,11 @@
+{
+	"DEV": {
+		"postgresDbUser": "frenchtoast",
+		"postgresDbPwd": "school2022",
+		"postgresDbUrl": "jdbc:postgresql://ft-database-1.cwkgre52ctky.us-east-1.rds.amazonaws.com:5432/fttestdb?currentSchema=ft_preprod",
+		"sftpHost": "123.201.232.66",
+		"sftpUserName": "ignitiv",
+		"sftpPassword": "ignitiv123$",
+		"sftpport": "22"
+	}
+}
